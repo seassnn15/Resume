@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #c56e9e;
+    color: #c56e9e;
+    background-image: url(pink-756210_1280.webp);
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #e6d7d7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #c56e9e
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.header p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+    color: #b10765
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+    border-bottom: 1px solid #c50f55;
+    padding-bottom: 5px;
+}
+
+.section ul {
+    padding: 0;
+    list-style: none;
+}
+
+.section li {
+    margin-bottom: 10px;
+}
+
+.section li strong {
+    display: block;
+    color: #000;
+    font-size: 1.1em;
+}
+
+.section p {
+    margin: 5px 0 0;
+    color: #c56e9e
+}
